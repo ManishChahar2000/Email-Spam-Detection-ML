@@ -1,0 +1,11 @@
+{
+  "best_model": "Linear SVM",
+  "selection_metric": "f1",
+  "score": 0.9861473352281707,
+  "random_state": 42,
+  "tfidf_max_features": 5000,
+  "tfidf_ngram_range": [
+    1,
+    2
+  ]
+}
